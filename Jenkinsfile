@@ -4,7 +4,7 @@ pipeline {
             stage('Init') {
                   steps {
                         echo 'Hi, this is Victor Odili'
-                        echo 'We are Starting the Testing'
+                        echo 'We are Starting the Testing Dec 30'
                   }
             }
             stage('Build') {
